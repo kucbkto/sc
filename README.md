@@ -31,7 +31,7 @@ A Powerful and Useful Bot Which Can :-
 # Hosting 🖥
 
 ### Deploying To Heroku ⚙
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/idkgj1233/SC-Video-Compressor-Bot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kucbkto/sc)
 
 ### NOTE✍🏻
 <HR/>
